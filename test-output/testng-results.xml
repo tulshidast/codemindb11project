@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T07:46:41 IST" name="Default suite" finished-at="2024-07-05T07:46:53 IST" duration-ms="11203">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T07:46:41 IST" name="Default test" finished-at="2024-07-05T07:46:53 IST" duration-ms="11203">
+      <class name="testcases.VerifyCountryDropdown">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.VerifyCountryDropdown@3232a28a]" started-at="2024-07-05T07:46:41 IST" name="launchBrowser" finished-at="2024-07-05T07:46:47 IST" duration-ms="5478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyCountryDropdown()[pri:0, instance:testcases.VerifyCountryDropdown@3232a28a]" started-at="2024-07-05T07:46:47 IST" name="verifyCountryDropdown" finished-at="2024-07-05T07:46:52 IST" duration-ms="5292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountryDropdown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.VerifyCountryDropdown@3232a28a]" started-at="2024-07-05T07:46:52 IST" name="tearDown" finished-at="2024-07-05T07:46:53 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.VerifyCountryDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
